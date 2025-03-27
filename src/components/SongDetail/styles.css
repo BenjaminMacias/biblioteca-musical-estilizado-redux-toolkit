@@ -1,0 +1,10 @@
+.song-detail {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .song-detail img {
+    margin-top: 10px;
+    width: 200px;
+    border-radius: 10px;
+  }
