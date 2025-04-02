@@ -42,5 +42,11 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://theaudiodb.com"
+  "proxy": "https://theaudiodb.com",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "scripts": {
+  "test": "jest"
+}
 }
