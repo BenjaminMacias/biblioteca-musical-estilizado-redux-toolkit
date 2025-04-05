@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1743855534284" clover="3.2.0">
+  <project timestamp="1743855534284" name="All files">
+    <metrics statements="159" coveredstatements="156" conditionals="66" coveredconditionals="53" methods="57" coveredmethods="55" elements="282" coveredelements="264" complexity="0" loc="159" ncloc="159" packages="11" files="16" classes="16"/>
+    <package name="biblioteca-musical-estilizado-redux-toolkit">
+      <metrics statements="15" coveredstatements="15" conditionals="10" coveredconditionals="10" methods="5" coveredmethods="5"/>
+      <file name="functions.js" path="C:\Users\Benny\OneDrive\Документы\git__github\react\biblioteca-musical-estilizado-redux-toolkit\functions.js">
+        <metrics statements="15" coveredstatements="15" conditionals="10" coveredconditionals="10" methods="5" coveredmethods="5"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="6" count="10" type="stmt"/>
+        <line num="8" count="4" type="stmt"/>
+        <line num="12" count="4" type="cond" truecount="4" falsecount="0"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="14" count="16" type="stmt"/>
+        <line num="18" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="19" count="3" type="stmt"/>
+        <line num="20" count="3" type="stmt"/>
+        <line num="21" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="23" count="3" type="stmt"/>
+        <line num="27" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="28" count="3" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="biblioteca-musical-estilizado-redux-toolkit.src">
+      <metrics statements="12" coveredstatements="9" conditionals="4" coveredconditionals="1" methods="4" coveredmethods="2"/>
+      <file name="App.js" path="C:\Users\Benny\OneDrive\Документы\git__github\react\biblioteca-musical-estilizado-redux-toolkit\src\App.js">
+        <metrics statements="12" coveredstatements="9" conditionals="4" coveredconditionals="1" methods="4" coveredmethods="2"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="29" count="2" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="31" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="37" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="biblioteca-musical-estilizado-redux-toolkit.src.Styles">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="theme.js" path="C:\Users\Benny\OneDrive\Документы\git__github\react\biblioteca-musical-estilizado-redux-toolkit\src\Styles\theme.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="6" type="stmt"/>
+      </file>
+    </package>
+    <package name="biblioteca-musical-estilizado-redux-toolkit.src.components.Header">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Header.js" path="C:\Users\Benny\OneDrive\Документы\git__github\react\biblioteca-musical-estilizado-redux-toolkit\src\components\Header\Header.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="biblioteca-musical-estilizado-redux-toolkit.src.components.Library">
+      <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="8" coveredmethods="8"/>
+      <file name="Library.js" path="C:\Users\Benny\OneDrive\Документы\git__github\react\biblioteca-musical-estilizado-redux-toolkit\src\components\Library\Library.js">
+        <metrics statements="9" coveredstatements="9" conditionals="2" coveredconditionals="2" methods="5" coveredmethods="5"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="16" type="stmt"/>
+        <line num="9" count="7" type="stmt"/>
+        <line num="10" count="7" type="stmt"/>
+        <line num="12" count="7" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="16" count="7" type="stmt"/>
+        <line num="25" count="8" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+      </file>
+      <file name="Library.styles.js" path="C:\Users\Benny\OneDrive\Документы\git__github\react\biblioteca-musical-estilizado-redux-toolkit\src\components\Library\Library.styles.js">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="10" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="11" count="7" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="19" count="4" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="biblioteca-musical-estilizado-redux-toolkit.src.components.SearchBar">
+      <metrics statements="18" coveredstatements="18" conditionals="6" coveredconditionals="3" methods="7" coveredmethods="7"/>
+      <file name="SearchBar.js" path="C:\Users\Benny\OneDrive\Документы\git__github\react\biblioteca-musical-estilizado-redux-toolkit\src\components\SearchBar\SearchBar.js">
+        <metrics statements="11" coveredstatements="11" conditionals="2" coveredconditionals="1" methods="3" coveredmethods="3"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="10" type="stmt"/>
+        <line num="8" count="10" type="stmt"/>
+        <line num="10" count="10" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="13" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="19" count="10" type="stmt"/>
+        <line num="25" count="4" type="stmt"/>
+      </file>
+      <file name="SearchBar.styles.js" path="C:\Users\Benny\OneDrive\Документы\git__github\react\biblioteca-musical-estilizado-redux-toolkit\src\components\SearchBar\SearchBar.styles.js">
+        <metrics statements="7" coveredstatements="7" conditionals="4" coveredconditionals="2" methods="4" coveredmethods="4"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="16" count="10" type="stmt"/>
+        <line num="22" count="10" type="cond" truecount="1" falsecount="1"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="28" count="10" type="stmt"/>
+        <line num="37" count="10" type="cond" truecount="1" falsecount="1"/>
+      </file>
+    </package>
+    <package name="biblioteca-musical-estilizado-redux-toolkit.src.components.SearchResults">
+      <metrics statements="24" coveredstatements="24" conditionals="10" coveredconditionals="9" methods="7" coveredmethods="7"/>
+      <file name="SearchResults.js" path="C:\Users\Benny\OneDrive\Документы\git__github\react\biblioteca-musical-estilizado-redux-toolkit\src\components\SearchResults\SearchResults.js">
+        <metrics statements="18" coveredstatements="18" conditionals="10" coveredconditionals="9" methods="6" coveredmethods="6"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="15" count="9" type="stmt"/>
+        <line num="16" count="18" type="stmt"/>
+        <line num="18" count="9" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="28" count="9" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="30" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="35" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="37" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="46" count="6" type="cond" truecount="4" falsecount="0"/>
+        <line num="47" count="3" type="stmt"/>
+        <line num="50" count="3" type="stmt"/>
+        <line num="55" count="4" type="stmt"/>
+        <line num="60" count="1" type="stmt"/>
+      </file>
+      <file name="SearchResults.styles.js" path="C:\Users\Benny\OneDrive\Документы\git__github\react\biblioteca-musical-estilizado-redux-toolkit\src\components\SearchResults\SearchResults.styles.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="21" count="5" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="35" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="biblioteca-musical-estilizado-redux-toolkit.src.components.Song">
+      <metrics statements="15" coveredstatements="15" conditionals="12" coveredconditionals="9" methods="8" coveredmethods="8"/>
+      <file name="Song.js" path="C:\Users\Benny\OneDrive\Документы\git__github\react\biblioteca-musical-estilizado-redux-toolkit\src\components\Song\Song.js">
+        <metrics statements="2" coveredstatements="2" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="12" count="18" type="stmt"/>
+      </file>
+      <file name="Song.styles.js" path="C:\Users\Benny\OneDrive\Документы\git__github\react\biblioteca-musical-estilizado-redux-toolkit\src\components\Song\Song.styles.js">
+        <metrics statements="13" coveredstatements="13" conditionals="6" coveredconditionals="3" methods="7" coveredmethods="7"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="17" count="4" type="stmt"/>
+        <line num="20" count="18" type="stmt"/>
+        <line num="23" count="4" type="stmt"/>
+        <line num="29" count="4" type="stmt"/>
+        <line num="30" count="5" type="stmt"/>
+        <line num="41" count="5" type="cond" truecount="1" falsecount="1"/>
+        <line num="45" count="4" type="stmt"/>
+        <line num="46" count="9" type="cond" truecount="1" falsecount="1"/>
+        <line num="57" count="9" type="cond" truecount="1" falsecount="1"/>
+        <line num="61" count="4" type="stmt"/>
+        <line num="63" count="14" type="stmt"/>
+        <line num="67" count="14" type="stmt"/>
+      </file>
+    </package>
+    <package name="biblioteca-musical-estilizado-redux-toolkit.src.components.SongDetail">
+      <metrics statements="12" coveredstatements="12" conditionals="14" coveredconditionals="12" methods="1" coveredmethods="1"/>
+      <file name="SongDetail.js" path="C:\Users\Benny\OneDrive\Документы\git__github\react\biblioteca-musical-estilizado-redux-toolkit\src\components\SongDetail\SongDetail.js">
+        <metrics statements="12" coveredstatements="12" conditionals="14" coveredconditionals="12" methods="1" coveredmethods="1"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="4" type="stmt"/>
+        <line num="10" count="4" type="stmt"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="13" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="15" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="17" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="26" count="2" type="cond" truecount="4" falsecount="0"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="biblioteca-musical-estilizado-redux-toolkit.src.hooks">
+      <metrics statements="17" coveredstatements="17" conditionals="2" coveredconditionals="2" methods="6" coveredmethods="6"/>
+      <file name="useFetch.js" path="C:\Users\Benny\OneDrive\Документы\git__github\react\biblioteca-musical-estilizado-redux-toolkit\src\hooks\useFetch.js">
+        <metrics statements="17" coveredstatements="17" conditionals="2" coveredconditionals="2" methods="6" coveredmethods="6"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="10" type="stmt"/>
+        <line num="5" count="10" type="stmt"/>
+        <line num="6" count="10" type="stmt"/>
+        <line num="8" count="10" type="stmt"/>
+        <line num="9" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="24" count="10" type="stmt"/>
+        <line num="25" count="5" type="stmt"/>
+        <line num="28" count="10" type="stmt"/>
+      </file>
+    </package>
+    <package name="biblioteca-musical-estilizado-redux-toolkit.src.redux.slices">
+      <metrics statements="28" coveredstatements="28" conditionals="4" coveredconditionals="3" methods="10" coveredmethods="10"/>
+      <file name="librarySlice.js" path="C:\Users\Benny\OneDrive\Документы\git__github\react\biblioteca-musical-estilizado-redux-toolkit\src\redux\slices\librarySlice.js">
+        <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="21" count="4" type="stmt"/>
+      </file>
+      <file name="searchSlice.js" path="C:\Users\Benny\OneDrive\Документы\git__github\react\biblioteca-musical-estilizado-redux-toolkit\src\redux\slices\searchSlice.js">
+        <metrics statements="21" coveredstatements="21" conditionals="2" coveredconditionals="1" methods="6" coveredmethods="6"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="8" count="4" type="stmt"/>
+        <line num="10" count="4" type="stmt"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="13" count="4" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="16" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="24" count="3" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+        <line num="41" count="4" type="stmt"/>
+        <line num="42" count="4" type="stmt"/>
+        <line num="45" count="3" type="stmt"/>
+        <line num="46" count="3" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="50" count="1" type="stmt"/>
+        <line num="55" count="3" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
